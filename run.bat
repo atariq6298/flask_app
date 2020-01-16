@@ -1,2 +1,2 @@
-venv\scripts\activate.bat
+call venv\scripts\activate.bat
 flask run
